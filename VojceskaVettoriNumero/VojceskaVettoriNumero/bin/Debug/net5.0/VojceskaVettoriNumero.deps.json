@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "VojceskaVettoriNumero/1.0.0": {
+        "runtime": {
+          "VojceskaVettoriNumero.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VojceskaVettoriNumero/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\Utente\Desktop\VojceskaVettoriNumero\VojceskaVettoriNumero\bin\Debug\net5.0\VojceskaVettoriNumero.exe
+C:\Users\Utente\Desktop\VojceskaVettoriNumero\VojceskaVettoriNumero\bin\Debug\net5.0\VojceskaVettoriNumero.deps.json
+C:\Users\Utente\Desktop\VojceskaVettoriNumero\VojceskaVettoriNumero\bin\Debug\net5.0\VojceskaVettoriNumero.runtimeconfig.json
+C:\Users\Utente\Desktop\VojceskaVettoriNumero\VojceskaVettoriNumero\bin\Debug\net5.0\VojceskaVettoriNumero.runtimeconfig.dev.json
+C:\Users\Utente\Desktop\VojceskaVettoriNumero\VojceskaVettoriNumero\bin\Debug\net5.0\VojceskaVettoriNumero.dll
+C:\Users\Utente\Desktop\VojceskaVettoriNumero\VojceskaVettoriNumero\bin\Debug\net5.0\ref\VojceskaVettoriNumero.dll
+C:\Users\Utente\Desktop\VojceskaVettoriNumero\VojceskaVettoriNumero\bin\Debug\net5.0\VojceskaVettoriNumero.pdb
+C:\Users\Utente\Desktop\VojceskaVettoriNumero\VojceskaVettoriNumero\obj\Debug\net5.0\VojceskaVettoriNumero.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\VojceskaVettoriNumero\VojceskaVettoriNumero\obj\Debug\net5.0\VojceskaVettoriNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\VojceskaVettoriNumero\VojceskaVettoriNumero\obj\Debug\net5.0\VojceskaVettoriNumero.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\VojceskaVettoriNumero\VojceskaVettoriNumero\obj\Debug\net5.0\VojceskaVettoriNumero.AssemblyInfo.cs
+C:\Users\Utente\Desktop\VojceskaVettoriNumero\VojceskaVettoriNumero\obj\Debug\net5.0\VojceskaVettoriNumero.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\VojceskaVettoriNumero\VojceskaVettoriNumero\obj\Debug\net5.0\VojceskaVettoriNumero.dll
+C:\Users\Utente\Desktop\VojceskaVettoriNumero\VojceskaVettoriNumero\obj\Debug\net5.0\ref\VojceskaVettoriNumero.dll
+C:\Users\Utente\Desktop\VojceskaVettoriNumero\VojceskaVettoriNumero\obj\Debug\net5.0\VojceskaVettoriNumero.pdb
+C:\Users\Utente\Desktop\VojceskaVettoriNumero\VojceskaVettoriNumero\obj\Debug\net5.0\VojceskaVettoriNumero.genruntimeconfig.cache
